@@ -1,0 +1,6 @@
+{
+	// Define o idioma de exibição do VS Code.
+	// Veja https://go.microsoft.com/fwlink/?LinkId=761051 para obter uma lista dos idiomas suportados.
+	
+	"locale":"pt-br" // Alterações não terão efeito até que VS Code for reiniciado.
+}
